@@ -7,4 +7,4 @@
 - For C=100, Accuracy = 96.5%
 
 ## Neural Network
-- Classification Accuracy = 92.7%
+- Classification Accuracy = 97.2%
